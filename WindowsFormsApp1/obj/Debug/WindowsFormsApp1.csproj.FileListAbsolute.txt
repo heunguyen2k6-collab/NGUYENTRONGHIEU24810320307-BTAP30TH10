@@ -1,0 +1,12 @@
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CafePOS.FormPOS.resources
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form1.resources
+C:\BT30TH10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmXuatNhapKho.resources
