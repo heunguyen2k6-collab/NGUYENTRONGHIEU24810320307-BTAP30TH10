@@ -30,19 +30,19 @@
 
 \#### 1. Giao diện chính
 
-!\[Giao diện chính Bài 5.3](./images/bai5.3-giaodien.png)
+![Giao diện chính Bài 5.3](./images/bai5.3-giaodien.png)
 
 
 
 \#### 2. Kết quả Thực thi / CSDL
 
-!\[Thực thi CSDL Bài 5.3](./images/bai5.3-thucthicsdl.png)
+![Thực thi CSDL Bài 5.3](./images/bai5.3-thucthicsdl.png)
 
 
 
 \#### 3. Báo lỗi \& Validation
 
-!\[Kiểm tra lỗi Bài 5.3](./images/bai5.3-baoloi.png)
+![Kiểm tra lỗi Bài 5.3](./images/bai5.3-baoloi.png)
 
 
 
@@ -56,19 +56,19 @@
 
 \#### 1. Giao diện chính
 
-!\[Giao diện chính Bài 5.4](./images/bai5.4-giaodien.png)
+![Giao diện chính Bài 5.4](./images/bai5.4-giaodien.png)
 
 
 
 \#### 2. Kết quả Thực thi / CSDL
 
-!\[Thực thi CSDL Bài 5.4](./images/bai5.4-thucthicsdl.png)
+![Thực thi CSDL Bài 5.4](./images/bai5.4-thucthicsdl.png)
 
 
 
 \#### 3. Báo lỗi \& Validation
 
-!\[Kiểm tra lỗi Bài 5.4](./images/bai5.4-baoloi.png)
+![Kiểm tra lỗi Bài 5.4](./images/bai5.4-baoloi.png)
 
 
 
@@ -82,11 +82,11 @@
 
 \#### 1. Giao diện chính
 
-!\[Giao diện chính Bài 5.5](./images/bai5.5-giaodien.png)
+![Giao diện chính Bài 5.5](./images/bai5.5-giaodien.png)
 
 
 
 \#### 2. Kết quả Thực thi / CSDL
 
-!\[Thực thi CSDL Bài 5.5](./images/bai5.5-thucthicsdl.png)
+![Thực thi CSDL Bài 5.5](./images/bai5.5-thucthicsdl.png)
 
